@@ -123,7 +123,7 @@ def clear():
 ### Logo
 def banner():
         os.system("clear")
-        os.system('echo "\n      ██ ▄█▀▄▄▄       ▄████▄   ██░ ██  ██▓\n      ██▄█▒▒████▄    ▒██▀ ▀█  ▓██░ ██▒▓██▒\n     ▓███▄░▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██▒\n     ▓██ █▄░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██░\n     ▒██▒ █▄▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓░██░\n     ▒ ▒▒ ▓▒▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒░▓\n     ░ ░▒ ▒░ ▒   ▒▒ ░  ░  ▒    ▒ ░▒░ ░ ▒ ░\n     ░ ░░ ░  ░   ▒   ░         ░  ░░ ░ ▒ ░\n     ░  ░        ░  ░░ ░       ░  ░  ░ ░\n    ░  \n  \n         ╔═════════════════════════════╗\n         ║ TOOL NAME: { CRACK-PRO }    ║\n         ║ AUTHOR   : MELANIN       ║\n         ║ GITHUB   : Melanin18        ║\n         ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')
+        os.system('echo "\n      ██ ▄█▀▄▄▄       ▄████▄   ██░ ██  ██▓\n      ██▄█▒▒████▄    ▒██▀ ▀█  ▓██░ ██▒▓██▒\n     ▓███▄░▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██▒\n     ▓██ █▄░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██░\n     ▒██▒ █▄▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓░██░\n     ▒ ▒▒ ▓▒▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒░▓\n     ░ ░▒ ▒░ ▒   ▒▒ ░  ░  ▒    ▒ ░▒░ ░ ▒ ░\n     ░ ░░ ░  ░   ▒   ░         ░  ░░ ░ ▒ ░\n     ░  ░        ░  ░░ ░       ░  ░  ░ ░\n    ░  \n  \n         ╔═════════════════════════════╗\n         ║ TOOL NAME: { CRACK-PRO }    ║\n         ║ AUTHOR   : MAHDI       ║\n         ║ GITHUB   : Shuvo-BBHH        ║\n         ╚═════════════════════════════╝" | lolcat -a -d 2 -s 50')
         print("")
         
 def cek_dev():
@@ -1404,9 +1404,9 @@ def genkey():
 		print("\033[0;93m            SEND THIS KEY TO OWNER \n\n   YOUR KEY : \033[0;92m%s"%(rb))
 		print("\033[0;93m   TOOL PRICE : %s10K "%(H))
 		print("\033[0;93m   VALIDITY : %s1 month"%(H))
-		print("\033[0;94m          TELEGRAM ID : @Melanin023")
-		print("\033[0;94m          INSTAGRAM : @iam_melanin_\n\n")
-		subprocess.check_output(["am", "start", "https://wa.me/+2349150557103"])
+		print("\033[0;94m          TELEGRAM ID : @BBHH")
+		print("\033[0;94m          Fb : mahdi80808_\n\n")
+		subprocess.check_output(["am", "start", "https://web.facebook.com/mahdi80808"])
 		exit()
 	except(IOError):
 		rb = rx
@@ -1419,9 +1419,9 @@ def genkey():
 		print("\033[0;93m               SEND THIS KEY TO OWNER \n\n YOUR KEY : \033[0;92m%s%s"%(rb,basesplit))
 		print("\033[0;93m     TOOL PRICE : %s10K"%(H))
 		print("\033[0;93m     VALIDITY : %s1 month"%(H))
-		print("\033[0;94m             TELEGRAM ID : @iam_melanin_")
-		print("\033[0;94m             INSTAGRAM : @Melanin023\n\n")
-		subprocess.check_output(["am", "start", "https://wa.me/2349150557103"])
+		print("\033[0;94m             TELEGRAM ID : @shuvobbhh_")
+		print("\033[0;94m             Facebook : mahdi.80808\n\n")
+		subprocess.check_output(["am", "start", "https://web.facebook.com/mahdi80808"])
 		exit()
 
 def keycheck():
