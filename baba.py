@@ -197,14 +197,12 @@ def menu():
     print('')
 pm = _cici_azimvau_('%s [%s>_%s] %sCHOOSE : %s'%(H,P,H,K,H))
     print('%s '%(O))
- if pm in ['']:jalan('%s [%s!%s] %sINCORRECT CONTENT'%(P,M,P,M));menu()
+if pm in ['']:jalan('%s [%s!%s] %sINCORRECT CONTENT'%(P,M,P,M));menu()
 elif pm in ['1','01','001','a']:
       
       os.system('git clone https://github.com/Shuvo-BBHH/paidfree6.git')
       os.system('cd paidfree6 && python madi.py')
       
-      
-      
-        
+  
 elif pm in ['2','02','002','b']:
         print('mahdi')
