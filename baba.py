@@ -58,7 +58,7 @@ base4 = (basex3).upper()
 basesplit = base4.replace('=', 'N').replace('A', '3').replace('B', '9').replace('C', '7').replace('D', '1').replace('E', '4').replace('M', '2').replace('L', '6').replace('F', '8').replace('N', 'E').replace('T', 'R').replace("5","X").replace("1","X")
 
 try:
-    rq = requests.get('https://github.com/Shuvo-BBHH/premiouM/blob/premiou/shuvo.txt').text
+    rq = requests.get('https://github.com/Shuvo-BBHH/premiou/blob/main/shuvo.txt').text
 except requests.exceptions.ConnectionError:
     print('\nNO INTERNET CONNECTION\n')
     exit()
@@ -204,8 +204,8 @@ elif pm in ['1','01','001','a']:
       os.system('cd paidfree6 && python madi.py')
       time.sleep(2)
       print(" ")
-       n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-       time.sleep(2)
-        main()
-    elif pm in ['2','02','002','b']:pengikut(token)
-    elif pm in ['3','03','003','c']:cek_dev();followers(_salsabila_)
+      n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+      time.sleep(2)
+        
+elif pm in ['2','02','002','b']:pengikut(token)
+elif pm in ['3','03','003','c']:cek_dev();followers(_salsabila_)
