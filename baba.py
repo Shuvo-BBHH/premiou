@@ -196,7 +196,7 @@ def menu():
     psb('%s [%s00%s] %sLOG OUT'%(H,M,H,M))
     print('')
 pm = _cici_azimvau_('%s [%s>_%s] %sCHOOSE : %s'%(H,P,H,K,H))
-    print('%s '%(O))
+    
 if pm in ['']:jalan('%s [%s!%s] %sINCORRECT CONTENT'%(P,M,P,M));menu()
 elif pm in ['1','01','001','a']:
       
